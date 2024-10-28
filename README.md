@@ -20,7 +20,7 @@
 <div align="center"> <i> A Ghost on the Internet, a Goblin in the real life </i> </div>
 
 - 📚  | Normal College in China     
-- 🤔  | Alternating between INTP and ENPT    
+- 🤔  | Altering between INTP and ENTP    
 - 🎮  | Game Logic Developer  
 - 📖  | Learner in PLT  
 - 🌐  | Web Front-end Programmer  
