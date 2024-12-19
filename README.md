@@ -22,7 +22,7 @@
 - 📚  | Normal College in China     
 - 🤔  | Altering between INTP and ENTP    
 - 🎮  | Game Logic Developer  
-- 📖  | Learner in PLT  
+- 📖  | Learner in PLT and Machine Learning
 - 🌐  | Web Front-end Programmer  
 
 - 🎵  | Punk and Post-Rock  
