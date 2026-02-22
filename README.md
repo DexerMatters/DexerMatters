@@ -73,4 +73,4 @@
 </p>
 
 The most boring server in the world: 
-https://discord.gg/uG4sDTpg
+https://discord.gg/zGFE6BFJSf
