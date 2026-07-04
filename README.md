@@ -35,9 +35,9 @@
   <h1>My Stats 🔥</h1>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dexermatters&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexermatters&layout=compact&hide_border=true&theme=transparent)
-
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=dexermatters&theme=transparent)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexermatters&layout=compact&hide_border=true&theme=transparent)
+](https://github-stats-extended.vercel.app/api/top-langs?username=DexerMatters&layout=compact&langs_count=5&theme=transparent)
 <div id="header" align="center">
   <h1>Tools I use and learn 🚀</h1>
 </div>
